@@ -2,7 +2,7 @@ name: Data Validation
 
 on:
   push:
-    branches: [master]
+    branches: [main]
 
 jobs:
   data-validation:

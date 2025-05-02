@@ -1,3 +1,5 @@
 "This is a dummy text file created to test the CI workflow"
 
 "Failed the first time. Trying again"
+
+"Changed branch name from master to main in YAML file"
